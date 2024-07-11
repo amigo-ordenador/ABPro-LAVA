@@ -14,15 +14,15 @@ Copiar los siguientes argumentos dentro del archivo:
 
 name: meep
 channels:
-  - conda-forge
-  - defaults
+ - conda-forge
+ - defaults
 dependencies:
-  - python=3.11
-  - matplotlib=3.7
-  - numpy=1.25
-  - opencv=4.7
-  - pymeep=1.27.0
-  - pymeep-extras=1.27.0
+ - python=3.11
+ - matplotlib=3.7
+ - numpy=1.25
+ - opencv=4.7
+ - pymeep=1.27.0
+ - pymeep-extras=1.27.0
 
 Para crear un entorno conda:
 
